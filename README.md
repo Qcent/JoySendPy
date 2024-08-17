@@ -1,8 +1,8 @@
 # JoySendPy
 
 A Python companion to [NetJoy](https://github.com/Qcent/NetJoy) for non-Windows machines. \
-Requires PyGame and keyboard python modules. Install them with ```pip install -r requirements.txt``` 
-\
+Requires the colorama, hidapi, pygame and keyboard python modules. Install them with ```pip install -r requirements.txt``` 
+
 ```
 python JoySender.py [OPTIONS] <ipaddress of host>
 ```
