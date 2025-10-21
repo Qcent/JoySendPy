@@ -1,6 +1,6 @@
 # JoySendPy
 
-A Python companion to [NetJoy](https://github.com/Qcent/NetJoy) for non-Windows machines. \
+A Python companion to [NetJoy](https://github.com/Qcent/NetJoy) (version 2.x and below) for non-Windows machines. \
 Requires the colorama, hidapi, pygame and keyboard python modules. Install them with ```pip install -r requirements.txt``` 
 
 ```
